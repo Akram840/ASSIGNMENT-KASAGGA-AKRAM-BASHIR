@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\AKRAM\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.exe
+C:\Users\lenovo\Desktop\AKRAM\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.deps.json
+C:\Users\lenovo\Desktop\AKRAM\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.runtimeconfig.json
+C:\Users\lenovo\Desktop\AKRAM\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.dll
+C:\Users\lenovo\Desktop\AKRAM\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.pdb
+C:\Users\lenovo\Desktop\AKRAM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\AKRAM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\AKRAM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\AKRAM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\AKRAM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\AKRAM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.dll
+C:\Users\lenovo\Desktop\AKRAM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\refint\ASSIGNMENT.dll
+C:\Users\lenovo\Desktop\AKRAM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.pdb
+C:\Users\lenovo\Desktop\AKRAM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\AKRAM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ref\ASSIGNMENT.dll
